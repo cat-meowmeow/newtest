@@ -1,2 +1,1 @@
-Nothing here.  
-Linux
+Nothing here.
